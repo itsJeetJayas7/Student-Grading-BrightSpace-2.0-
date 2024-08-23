@@ -45,18 +45,16 @@ Here’s how **BrightSpace 2.0** looks while it’s running:
 
 <div style="display: flex; justify-content: space-between;">
     <img src="pic1.png" alt="Login Screen" width="24%">
-    <img src="pic1.png" alt="Dashboard" width="24%">
-    <img src="pic1.png" alt="Course List" width="24%">
-    <img src="pic1.png" alt="Quiz Creation" width="24%">
+    <img src="pic2.png" alt="Dashboard" width="24%">
+    <img src="pic3.png" alt="Course List" width="24%">
+    <img src="pic4.png" alt="Quiz Creation" width="24%">
 </div>
-  ![Login Screen](pic1.png)
-  ![Dashboard](pic2.png)
-  ![Course List](pic3.png)
-  ![Quiz Creation](pic4.png)
-  ![Quiz View](pic5.png)
-  ![Quiz Submission](pic6.png)
-  ![Grading Screen](pic7.png)
-  ![Grading Screen](pic8.png)
+<div style="display: flex; justify-content: space-between;">
+    <img src="pic5.png" alt="Login Screen" width="24%">
+    <img src="pic6.png" alt="Dashboard" width="24%">
+    <img src="pic7.png" alt="Course List" width="24%">
+    <img src="pic8.png" alt="Quiz Creation" width="24%">
+</div>
 
 
 ## 🔧 Getting Started
