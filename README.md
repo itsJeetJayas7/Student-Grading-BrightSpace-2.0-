@@ -45,31 +45,31 @@ Here’s how **QuizMaster LMS** looks while it’s running:
 
 - **Login Screen**
   
-  ![Login Screen](Screenshot%202024-08-23%20at%204.37.38%20PM.png)
+  ![Login Screen](pic1)
 
 - **Dashboard**
 
-  ![Dashboard](Screenshot%202024-08-23%20at%204.38.23%20PM.png)
+  ![Dashboard](pic2)
 
 - **Course List**
 
-  ![Course List](Screenshot%202024-08-23%20at%204.39.36%20PM.png)
+  ![Course List](pic3)
 
 - **Quiz Creation**
 
-  ![Quiz Creation](Screenshot%202024-08-23%20at%204.39.57%20PM.png)
+  ![Quiz Creation](pic4)
 
 - **Quiz View**
 
-  ![Quiz View](Screenshot%202024-08-23%20at%204.40.53%20PM.png)
+  ![Quiz View](pic5)
 
 - **Quiz Submission**
 
-  ![Quiz Submission](Screenshot%202024-08-23%20at%204.41.38%20PM.png)
+  ![Quiz Submission](pic6)
 
 - **Grading Screen**
 
-  ![Grading Screen](Screenshot%202024-08-23%20at%204.44.10%20PM.png)
+  ![Grading Screen](pic7)
 
 
 ## 🔧 Getting Started
