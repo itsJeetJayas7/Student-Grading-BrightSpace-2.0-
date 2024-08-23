@@ -54,8 +54,8 @@ Here’s how **BrightSpace 2.0** looks while it’s running:
     <img src="pic6.png" alt="Course List" width="33%">
 </div>
 <div style="display: flex; justify-content: space-between;">
-    <img src="pic7.png" alt="Login Screen" width="45%">
-    <img src="pic8.png" alt="Dashboard" width="45%">
+    <img src="pic7.png" alt="Login Screen" width="33%">
+    <img src="pic8.png" alt="Dashboard" width="33%">
 </div>
 
 
