@@ -41,7 +41,14 @@ Welcome to **BrightSpace 2.0**, a comprehensive Learning Management System (LMS)
 
 ### Application Screenshots
 
-Here’s how **QuizMaster LMS** looks while it’s running:
+Here’s how **BrightSpace 2.0** looks while it’s running:
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="pic1.png" alt="Login Screen" width="24%">
+    <img src="pic1.png" alt="Dashboard" width="24%">
+    <img src="pic1.png" alt="Course List" width="24%">
+    <img src="pic1.png" alt="Quiz Creation" width="24%">
+</div>
   ![Login Screen](pic1.png)
   ![Dashboard](pic2.png)
   ![Course List](pic3.png)
