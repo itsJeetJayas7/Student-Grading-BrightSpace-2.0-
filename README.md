@@ -73,7 +73,7 @@ Here’s how **BrightSpace 2.0** looks while it’s running:
 
 ## 🧠 Example Use Case
 
-For a practical example, think of **Brightspace quizzes**—QuizMaster LMS is designed to offer a similar, user-friendly interface with robust features to support both teaching and learning.
+For a practical example, think of **Brightspace quizzes**—BrightSpace 2.0 is designed to offer a similar, user-friendly interface with robust features to support both teaching and learning.
 
 ## 📥 File Import Instructions
 
@@ -82,4 +82,4 @@ For a practical example, think of **Brightspace quizzes**—QuizMaster LMS is de
 
 ## 🎓 Conclusion
 
-**QuizMaster LMS** is built to provide a robust, flexible, and user-friendly platform for managing quizzes in an educational environment. Whether you’re a teacher creating content or a student taking quizzes, QuizMaster LMS has the tools you need to succeed.
+**BrightSpace 2.0** is built to provide a robust, flexible, and user-friendly platform for managing quizzes in an educational environment. Whether you’re a teacher creating content or a student taking quizzes, BrightSpace 2.0 has the tools you need to succeed.
