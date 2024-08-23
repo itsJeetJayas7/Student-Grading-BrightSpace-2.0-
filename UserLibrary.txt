@@ -1,0 +1,18 @@
+Santi student
+s@student
+123
+Dance-Dance-boy teacher
+d@teacher
+123
+Surya teacher
+surya@teacher
+123
+Prof. Bergstorm teacher
+berg@teacher
+123
+Kedar student
+kedar@student
+123
+Rohan student
+rohan@student
+123

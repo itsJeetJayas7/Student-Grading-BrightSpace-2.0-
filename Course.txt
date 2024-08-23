@@ -1,0 +1,6 @@
+<CSQUIz1,true,0,[<How are you feeling today?-MCQ-[Great~Best]>#<Is it a good day?-TrueFalse-[true~false]>#<Choose your favourite team :-MCQ-[Purdue~IU (sucks!)]>]>
+<New Quiz,true,0,[<TrueFalse-TrueFalse-[true~false]>#<MCQs-MCQ-[a~b]>]>
+<Abhi,true,0,[<Hii-TrueFalse-[true~false]>]>
+<abhiNew,true,0,[<hello-TrueFalse-[true~false]>]>
+$
+/1<Santi,s@student,false,0.0,2022-05-01 01:05:27.731,<[Is it a good day?-How are you feeling today?-Choose your favourite team :]~[true-best-Purdue]~[0.0-0.0-0.0]>>

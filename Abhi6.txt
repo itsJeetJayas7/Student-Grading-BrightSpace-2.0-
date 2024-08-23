@@ -1,0 +1,3 @@
+<2,false,0,[<1-TrueFalse-[true~false]>]>
+$
+/1<Santi,s@student,false,0.0,2022-04-30 18:47:21.706,<[no]~[1]~[0.0]>>#<Santi,s@student,false,0.0,2022-04-30 18:50:43.354,<[no]~[1]~[0.0]>>
