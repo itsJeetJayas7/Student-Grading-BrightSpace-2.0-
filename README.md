@@ -1,6 +1,6 @@
-# QuizMaster LMS
+# BrightSpace 2.0 
 
-Welcome to **QuizMaster LMS**, a comprehensive Learning Management System (LMS) designed to streamline the process of creating, administering, and grading quizzes. This application offers both teachers and students a seamless experience for managing courses and quizzes.
+Welcome to **BrightSpace 2.0**, a comprehensive Learning Management System (LMS) designed to streamline the process of creating, administering, and grading quizzes. This application offers both teachers and students a seamless experience for managing courses and quizzes.
 
 ## 🚀 Features
 
