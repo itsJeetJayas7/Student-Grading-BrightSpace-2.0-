@@ -39,6 +39,39 @@ Welcome to **BrightSpace 2.0**, a comprehensive Learning Management System (LMS)
 - **Question Pools:** Teachers can create a pool of questions, with a random subset selected for each quiz attempt.
 - **Custom Access:** Teachers can offer extended deadlines and additional time to specific students.
 
+### Application Screenshots
+
+Here’s how **QuizMaster LMS** looks while it’s running:
+
+- **Login Screen**
+  
+  ![Login Screen](Screenshot%202024-08-23%20at%204.37.38%20PM.png)
+
+- **Dashboard**
+
+  ![Dashboard](Screenshot%202024-08-23%20at%204.38.23%20PM.png)
+
+- **Course List**
+
+  ![Course List](Screenshot%202024-08-23%20at%204.39.36%20PM.png)
+
+- **Quiz Creation**
+
+  ![Quiz Creation](Screenshot%202024-08-23%20at%204.39.57%20PM.png)
+
+- **Quiz View**
+
+  ![Quiz View](Screenshot%202024-08-23%20at%204.40.53%20PM.png)
+
+- **Quiz Submission**
+
+  ![Quiz Submission](Screenshot%202024-08-23%20at%204.41.38%20PM.png)
+
+- **Grading Screen**
+
+  ![Grading Screen](Screenshot%202024-08-23%20at%204.44.10%20PM.png)
+
+
 ## 🔧 Getting Started
 
 1. **Account Creation:** Users must sign up or log in to access the application. 
