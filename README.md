@@ -45,31 +45,31 @@ Here’s how **QuizMaster LMS** looks while it’s running:
 
 - **Login Screen**
   
-  ![Login Screen](pic1)
+  ![Login Screen](pic1.png)
 
 - **Dashboard**
 
-  ![Dashboard](pic2)
+  ![Dashboard](pic2.png)
 
 - **Course List**
 
-  ![Course List](pic3)
+  ![Course List](pic3.png)
 
 - **Quiz Creation**
 
-  ![Quiz Creation](pic4)
+  ![Quiz Creation](pic4.png)
 
 - **Quiz View**
 
-  ![Quiz View](pic5)
+  ![Quiz View](pic5.png)
 
 - **Quiz Submission**
 
-  ![Quiz Submission](pic6)
+  ![Quiz Submission](pic6.png)
 
 - **Grading Screen**
 
-  ![Grading Screen](pic7)
+  ![Grading Screen](pic7.png)
 
 
 ## 🔧 Getting Started
