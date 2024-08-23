@@ -44,16 +44,18 @@ Welcome to **BrightSpace 2.0**, a comprehensive Learning Management System (LMS)
 Here’s how **BrightSpace 2.0** looks while it’s running:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="pic1.png" alt="Login Screen" width="24%">
-    <img src="pic2.png" alt="Dashboard" width="24%">
-    <img src="pic3.png" alt="Course List" width="24%">
-    <img src="pic4.png" alt="Quiz Creation" width="24%">
+    <img src="pic1.png" alt="Login Screen" width="33%">
+    <img src="pic2.png" alt="Dashboard" width="33%">
+    <img src="pic3.png" alt="Course List" width="33%">
 </div>
 <div style="display: flex; justify-content: space-between;">
-    <img src="pic5.png" alt="Login Screen" width="24%">
-    <img src="pic6.png" alt="Dashboard" width="24%">
-    <img src="pic7.png" alt="Course List" width="24%">
-    <img src="pic8.png" alt="Quiz Creation" width="24%">
+    <img src="pic4.png" alt="Login Screen" width="33%">
+    <img src="pic5.png" alt="Dashboard" width="33%">
+    <img src="pic6.png" alt="Course List" width="33%">
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <img src="pic7.png" alt="Login Screen" width="50%">
+    <img src="pic8.png" alt="Dashboard" width="50%">
 </div>
 
 
